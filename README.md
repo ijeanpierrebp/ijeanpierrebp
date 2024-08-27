@@ -1,10 +1,27 @@
-    Hi 👋, I'm Jean Blanchard
-<h3 align="center">A passionate .NET developer</h3>
+   # Hi, I'm Jean Blanchard
+### A passionate .NET developer.
+
+
+
+<h2 align="center">Contact me:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeanpblanchard/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jean Blanchard's LinkedIn Profile" height="30" width="30">
+  </a>
+      <a href="mailto:ijeanpierrebp@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
+  </a>
+  <a href="https://www.youtube.com/@todoconnet">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Todo con .NET YouTube Channel" height="30" width="30">
+  </a>
+  
+
+
+</p>
 
 
 ### My YouTube Channel
-
-
 <!-- BEGIN YOUTUBE-CARDS -->
 [![1.2 Descargando e instalando Visual Studio 2022](https://ytcards.demolab.com/?id=XQRhqyAVjC0&title=1.2+Descargando+e+instalando+Visual+Studio+2022&lang=en&timestamp=1724613007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1.2 Descargando e instalando Visual Studio 2022")](https://www.youtube.com/watch?v=XQRhqyAVjC0)
 [![1.1 Introducción a .NET](https://ytcards.demolab.com/?id=RVjLd7OB9sw&title=1.1+Introducci%C3%B3n+a+.NET&lang=en&timestamp=1724448291&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "1.1 Introducción a .NET")](https://www.youtube.com/watch?v=RVjLd7OB9sw)
