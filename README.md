@@ -23,7 +23,7 @@
 
 ### My YouTube Channel
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Propiedades explicadas - C#](https://ytcards.demolab.com/?id=vl5XdXYuefk&title=Propiedades+explicadas+-+C%23&lang=en&timestamp=1728747903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Propiedades explicadas - C#")](https://www.youtube.com/watch?v=vl5XdXYuefk)
+[![¿Qué son las propiedades? - C#](https://ytcards.demolab.com/?id=vl5XdXYuefk&title=%C2%BFQu%C3%A9+son+las+propiedades%3F+-+C%23&lang=en&timestamp=1728747903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Qué son las propiedades? - C#")](https://www.youtube.com/watch?v=vl5XdXYuefk)
 [![Namespace - C#](https://ytcards.demolab.com/?id=d4F-OX71WDY&title=Namespace+-+C%23&lang=en&timestamp=1728568839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Namespace - C#")](https://www.youtube.com/watch?v=d4F-OX71WDY)
 [![Abstracción - C#](https://ytcards.demolab.com/?id=T98A_ebHe0E&title=Abstracci%C3%B3n+-+C%23&lang=en&timestamp=1728400503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Abstracción - C#")](https://www.youtube.com/watch?v=T98A_ebHe0E)
 [![Instanciando una clase en C#](https://ytcards.demolab.com/?id=ZfpWdrQ7jvo&title=Instanciando+una+clase+en+C%23&lang=en&timestamp=1728261019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Instanciando una clase en C#")](https://www.youtube.com/watch?v=ZfpWdrQ7jvo)
